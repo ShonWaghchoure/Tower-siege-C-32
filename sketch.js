@@ -215,7 +215,7 @@ function showTheme(){
   strokeWeight(5);
   stroke(255);
   fill(0);
-  text("Theme: ]"+ theme, 1000, 100);
+  text("Theme: "+ theme, width/2, 100);
   pop();
 
   }
@@ -228,7 +228,7 @@ function showTheme(){
   strokeWeight(5);
   stroke(255);
   fill(0);
-  text("Theme: "+ theme, 1000, 100);
+  text("Theme: "+ theme, width/2, 100);
   pop();
 
   }
